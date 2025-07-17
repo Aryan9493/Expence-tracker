@@ -41,7 +41,7 @@ flutter:
     - assets/icons/youtube.png
     - assets/avatars/user1.png
     - assets/images/avatar.png
-    - assets/icons/chip.png,
+    - assets/icons/chip.png
     - assets/icons/diamond.png
 
 
